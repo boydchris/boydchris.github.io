@@ -10,6 +10,6 @@ Camera effects
 
 This is my camera effects project.
 
-![picture_title](https://github.com/boydchris/boydchris.github.io/blob/master/bucks.PNG?raw=true "Optional Title")
+![bucks](https://github.com/boydchris/boydchris.github.io/blob/master/bucks.PNG?raw=true "Optional Title")
 
 ***
